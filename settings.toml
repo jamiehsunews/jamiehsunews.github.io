@@ -154,18 +154,20 @@ category = "Audio"
 # here. Clicking the work plays it in a pop-up.
 
 [[work]]
-title = "Hakka Lei Cha-A Very Different Malaysia Take"
+title = "Hakka Lei Cha: A Very Different Malaysia Take"
 description = "A Malaysian of mixed Hakka heritage preserves a century-old culinary tradition, helping Hakka cuisine take root and thrive in Malaysia."
 video = "https://www.youtube.com/watch?v=kx_R4L1TYwk"
 date = "September 2023"
 category = "Video in Mandarin"
 
+[[work]]
 title = "The Mighty Hakka Lion Roars Again in Malaysia"
 description = "A young Malaysian coach forms a lion dance troupe to preserve the tradition, inspiring a new generation to revive the art’s former glory."
 video = "https://www.youtube.com/watch?v=QxLY2CO8YC4&t=3s"
 date = "September 2023"
 category = "Video in Mandarin"
 
+[[work]]
 title = "Inside a Malaysian Orangutan Conservation Center"
 description = "Semenggoh Wildlife Centre rescues orangutans and returns them to the wild while transforming from a rehabilitation hospital into an ecotourism destination that makes conservation accessible to all."
 video = "https://www.youtube.com/watch?v=shyi0rML8KI&t=300s"
