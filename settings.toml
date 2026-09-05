@@ -174,6 +174,27 @@ video = "https://www.youtube.com/watch?v=shyi0rML8KI&t=300s"
 date = "July 2023"
 category = "Video in Mandarin"
 
+[[work]]
+title = "Cat Lovers, Head to Kuching!"
+description = "Kuching, Malaysia, proudly calls itself the Cat City of Asia, attracting tourists with its abundance of cat statues and feline-themed attractions."
+video = "https://www.youtube.com/watch?v=i0M6LSZrVpg"
+date = "July 2023"
+category = "Video in Mandarin"
+
+[[work]]
+title = "Neelofa: Malaysia’s Most Influential Social Media Star"
+description = "With nearly 9 million followers, Neelofa has turned the hijab into a fashion statement. From the hijab to the niqab, she has challenged conventions, making each step a turning point in her life."
+video = "https://www.youtube.com/watch?v=kDifv8wkAlo&t=37s"
+date = "June 2023"
+category = "Video in Mandarin"
+
+[[work]]
+title = "A Century-Old Malaysian Temple Preserves the History of Hakka Settlement"
+description = "Hakka immigrants were later worshipped as deities, turning the temple into a spiritual refuge for the community. But keeping the century-old temple restored comes at a cost few people see."
+video = "https://www.youtube.com/watch?v=OHM92B8A1Vo"
+date = "September 2023"
+category = "Video in Mandarin"
+
 
 # ============================================================
 #  OPTIONAL EXTRAS — colors and fonts
