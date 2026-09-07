@@ -321,6 +321,12 @@ video = "https://www.youtube.com/watch?v=kDifv8wkAlo&t=37s"
 date = "June 2023"
 category = "Video in Mandarin"
 
+[[work]]
+title = "Hong Kong’s National Security Law Fuels Migration Wave"
+description = "Hong Kong’s pro-democracy protesters left the city and moved to Taiwan amid growing political pressure following the 2019 protests and the introduction of the National Security Law. How do they now view Hong Kong’s leadership election from afar?"
+video = "https://www.youtube.com/watch?v=CwkElxyg8nw&t=58s"
+date = "May 2022"
+category = "Video in Mandarin"
 
 
 # ============================================================
