@@ -118,13 +118,13 @@ description = "Photo assignment from UC Berkeley Journalism School."
 date = "September 2026"
 category = "Photojournalism"
 photos = [
-  "media/photoassignment/repeating-pattern.jpg | Repeating Pattern",
+  "media/photoassignment/moment.jpg | Moment",
   "media/photoassignment/perspective.jpg | Perspective",
   "media/photoassignment/rule-of-thirds.jpg | Rule of Thirds",
   "media/photoassignment/symmetry.jpg | Symmetry",
   "media/photoassignment/foreground-background.jpg | Foreground-background",
   "media/photoassignment/portrait.jpg | Portrait",
-  "media/photoassignment/moment.jpg | Moment",
+  "media/photoassignment/repeating-pattern.jpg | Repeating Pattern",
   "media/photoassignment/framing.jpg | Framing"
 ]
 
