@@ -73,12 +73,9 @@ favicon = ""                        # Tiny browser-tab icon. Empty = made for yo
 # A blank line starts a new paragraph.
 
 bio = """
-I'm a journalism student at UC Berkeley with a focus on multimedia
-storytelling. I am from Taiwan and worked as an international news reporter
-and news anchor at the TV broadcaster there.
-
-I previously covered international affairs, with a particular focus on Korea peninsula.
-Now, I am exploring stories about animals and wildlife in the East Bay.
+I'm a Taiwanese journalist and UC Berkeley journalism student exploring multimedia storytelling. 
+I previously worked as an international news reporter and anchor, covering international affairs with a focus on Korean peninsula.
+Now, I report on animals and wildlife in the East Bay.
 
 """
 
